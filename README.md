@@ -4,4 +4,4 @@ In this project, required to create a single-page CV (Curriculum Vitae) using on
 Here is my project URL:
 I appreciate the suggestion from community. Thanks in advance.
 
-https://github.com/prakashjaganathan86-png/html_solution/blob/main/single-page_CV
+https://github.com/prakashjaganathan86-png?tab=projects
